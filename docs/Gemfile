@@ -27,3 +27,9 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# security issue with addressible < 2.8.0
+gem "addressable", ">= 2.8.0"
+
+# auto rebuild jekyll with local changes
+gem 'jekyll-watch'
