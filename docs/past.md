@@ -9,9 +9,14 @@ Mentoring
 
 Outreach and Service
 ====================
++ **Student Volunteer**: POPL 2020, SPLASH 2021
++ **ISR Software Engineering Leadership Committee Member**, CMU, Pittsburgh, PA, 2020-2022
++ **REUSE Admissions Committee Member**, CMU, Pittsburgh, PA, 2018, 2019, 2020
 
 Previous Research Experience
 ============================
++ **2018-2019** UCLA Compilers Group
++ **2015-2019** Ozcan Research Group
 
 Education
 =========
@@ -21,6 +26,7 @@ Education
 
 Membership
 ==========
-+ **2016** Upsilon Pi Epsilon
-+ **2016** Eta Kappa Nu
-+ **2016** Tau Beta Pi
++ **2020** Association for Computing Machinery (ACM)
++ **2016** Upsilon Pi Epsilon (UPE)
++ **2016** Eta Kappa Nu (HKN)
++ **2016** Tau Beta Pi (TBP)
