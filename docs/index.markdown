@@ -26,6 +26,7 @@ Papers
 
 Talks
 =====
-+ [A Framework and DSL for Distributed, Energy-constrained, and Time-sensitive Applications.](https://2021.ecoop.org/track/ecoop-issta-2021-icooolps#) **Kyle Liang**, Reese Grimsley, Eve Hu, Edward Andert, Mohammad Khayatian, Aviral Shrivastava, Carlee Joe-Wong, Jonathan Aldrich, Bob Iannucci. In *Workshop on Implementation, Compilation, Optimization of OO Languages, Programs and Systems (ICOOOLPS)*, 2021.
++ [A Framework and DSL for Distributed, Energy-constrained, and Time-sensitive
+ Applications.](https://2021.ecoop.org/details/ecoop-issta-2021-icooolps/10/A-Framework-and-DSL-for-Distributed-Energy-constrained-and-Time-sensitive-Applicati) **Kyle Liang**, Reese Grimsley, Eve Hu, Edward Andert, Mohammad Khayatian, Aviral Shrivastava, Carlee Joe-Wong, Jonathan Aldrich, Bob Iannucci. In *Workshop on Implementation, Compilation, Optimization of OO Languages, Programs and Systems (ICOOOLPS)*, 2021.
 + [Honey Bee Parasite Detection Using a Smartphone](https://emerging-researchers.org/projects/98-4/) **Kyle Liang**, Jonathan W. Snow, Hatice Ceylan Koydemir, Doruk Kerim Karinca, Derek Tseng, Aydogan Ozcan. In *Emerging Researchers National (ERN) Conference in STEM*, 2019
 + [Rapid Detection and Quantification of Waterborne Pathogens Using Smartphone Based Fluorescence Microscopy and Machine Learning](https://emerging-researchers.org/projects/12699/) **Kyle Liang**, Hatice Ceylan Koydemir, Steve Feng, Rohan Nadkarni, Derek Tseng, Parul Benien, and Aydogan Ozcan. In *Emerging Researchers National (ERN) Conference in STEM*, 2017
