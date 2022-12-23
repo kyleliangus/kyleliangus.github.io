@@ -1,14 +1,14 @@
 Teaching
 ========
 
-+ **2022** Co-instructor for 15213: Introduction to Computer Systems
-+ **2021** Co-instructor for 15122: Principles of Imperative Computation
++ **2022** Co-instructor for 15-213: Introduction to Computer Systems
++ **2021** Co-instructor for 15-122: Principles of Imperative Computation
 
 Mentoring
 =========
 
 + **Matthew Makila**, University of Maryland Baltimore County (2020-2024)
-+ **Ian McCormack**, University of Wisconsin–Eau Claire (2017-2021), now at CMU doing a SE Ph.D. at ISR
++ **Ian McCormack**, University of Wisconsin–Eau Claire (2017-2021), now at CMU doing a SE Ph.D. at S3D
 
 Outreach and Service
 ====================
@@ -26,7 +26,7 @@ Previous Research Experience
 Education
 =========
 
-+ **2019-Present** Software Engineering Ph.D. in the Institute of Software Research at Carnegie Mellon University
++ **2019-Present** Software Engineering Ph.D. in the Software and Societal Systems Department at Carnegie Mellon University
 + **2015-2019** UCLA B.S. in Computer Science and Engineering
 + **2015-2019** UCLA B.S. in Mathematics of Computation
 
