@@ -17,6 +17,8 @@ You can give a try [here](http://ccsg.ece.cmu.edu/ttpython/tutorial-index.html)!
 Recent News
 ======================
 
+I'm working on my thesis proposal. Check it out [here](Thesis_Proposal.pdf).
+
 I will be helping on the 2023 S3D tenure-track hiring committee!
 
 I was a co-instructor of CMU's Summer 2022 instance of the course

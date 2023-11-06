@@ -33,3 +33,5 @@ gem "addressable", ">= 2.8.0"
 
 # auto rebuild jekyll with local changes
 gem 'jekyll-watch'
+
+gem "webrick", "~> 1.8"
