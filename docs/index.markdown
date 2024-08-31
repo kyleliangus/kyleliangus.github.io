@@ -7,8 +7,8 @@
 About Me
 ======================
 
-I am currently a 4th year Ph.D. at CMU.
-My research interests are in cyber-physical systems and Programming Lanugages.
+I am currently a 6th year Ph.D. at CMU.
+My research interests are in cyber-physical systems and Programming Languages.
 I'm working on TTPython, a domain-specific programming language and runtime
 designed to make distributed, energy-constrained, and time-sensitive applications
 easier to program.
