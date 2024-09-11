@@ -17,7 +17,7 @@ You can give a try [here](http://ccsg.ece.cmu.edu/ttpython/tutorial-index.html)!
 Recent News
 ======================
 
-I will be helping on the 2023 S3D tenure-track hiring committee!
+I was a member of the 2023 S3D tenure-track hiring committee!
 
 I was a co-instructor of CMU's Summer 2022 instance of the course
 [15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m22/www/)
@@ -28,13 +28,17 @@ Unfortunately, it has been rejected :(.
 
 I was a co-instructor with [Sol Boucher](https://www.cs.cmu.edu/~sboucher/) for
 the Summer 2021 instance of the course
-[15-122: Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/)
+[15-122: Principles of Imperative Computation](http://www.cs.cmu.edu/~15122-archive/n21/home.shtml)
 at CMU!
 
 Papers
 ======
 
 + Coming Soon :)
+
+Posters
+=======
++ [TickTalk: A Programming Language and System for Distributed, Time-Sensitive Applications](https://2024.splashcon.org/track/splash-2024-Posters#About) at SPLASH 2024] **Kyle Liang**, Edward Andert, Aviral Shrivastava, Jonathan Aldrich
 
 Talks
 =====
