@@ -7,7 +7,7 @@
 About Me
 ======================
 
-I am currently a 6th year Ph.D. at CMU.
+I am currently a 6th year Ph.D. candidate at CMU.
 My research interests are in cyber-physical systems and Programming Languages.
 I'm working on TTPython, a domain-specific programming language and runtime
 designed to make distributed, energy-constrained, and time-sensitive applications
@@ -16,8 +16,6 @@ You can give a try [here](http://ccsg.ece.cmu.edu/ttpython/tutorial-index.html)!
 
 Recent News
 ======================
-
-I'm working on my thesis proposal. Check it out [here](Thesis_Proposal.pdf).
 
 I will be helping on the 2023 S3D tenure-track hiring committee!
 
