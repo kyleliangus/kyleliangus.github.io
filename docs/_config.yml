@@ -22,7 +22,7 @@ title: Kyle Liang
 email: kyleliangus@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineering Ph.D. student
+  Software Engineering Ph.D. candidate
 school:
   Software and Societal Systems Department
 
@@ -33,12 +33,15 @@ nsf:
   2020 NSF Graduate Research Fellowship Program Fellow
 advisor:
   Jonathan Aldrich
+advisor_website:
+  "https://www.cs.cmu.edu/~aldrich/"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: "@KyleLiang16"
+github_username:  "kyleliangus"
 logo: "headshot.jpg"
+resume: "KYLE_RES_24.pdf"
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0

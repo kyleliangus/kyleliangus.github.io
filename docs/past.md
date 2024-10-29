@@ -8,7 +8,7 @@ Mentoring
 =========
 
 + **Gabriel Lee**, Carnegie Mellon University (2019-2022), now at Jane Street
-+ **Matthew Makila**, University of Maryland Baltimore County (2020-2024)
++ **Matthew Makila**, University of Maryland Baltimore County (2020-2024), now at UIUC doing a HCI Ph.D.
 + **Ian McCormack**, University of Wisconsin–Eau Claire (2017-2021), now at CMU doing a SE Ph.D. at S3D
 
 Outreach and Service
@@ -18,6 +18,7 @@ Outreach and Service
 + **Student Volunteer**: POPL 2020, SPLASH 2021, SPLASH 2024
 + **ISR Software Engineering Leadership Committee Member**, CMU, Pittsburgh, PA, 2020-2022
 + **REUSE Admissions Committee Member**, CMU, Pittsburgh, PA, 2021-2024
++ **REUSE Mentor**, CMU, Pittsburgh, PA, 2021-2022
 
 Previous Research Experience
 ============================

@@ -23,12 +23,14 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p>{{ site.school | newline_to_br }}</p>
-        <p>Advised by <a href="https://www.cs.cmu.edu/~aldrich/">{{ site.advisor }}</a></p>
+        <p>Advised by <a href="{{ site.advisor_website }}">{{ site.advisor }}</a></p>
         <p>{{ site.nsf }}</p>
 
         <!-- {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %} -->
+
+        <p><a href="{{site.resume | relative_url}}">Resume</a></p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
