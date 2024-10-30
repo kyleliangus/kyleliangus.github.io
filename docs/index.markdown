@@ -34,11 +34,11 @@ at CMU!
 Papers
 ======
 
-+ Coming Soon :)
++ [Plan B: Design Methodology for Cyber-Physical Systems Robust to Timing Failures](https://dl.acm.org/doi/10.1145/3516449) Mohammad Khayatian, Mohammadreza Mehrabian, Edward Andert, Reese Grimsley, **Kyle Liang**, Yi Hu, Ian McCormack, Carlee Joe-Wong, Jonathan Aldrich, Bob Iannucci, and Aviral Shrivastava,
 
 Posters
 =======
-+ [TickTalk: A Programming Language and System for Distributed, Time-Sensitive Applications](https://2024.splashcon.org/track/splash-2024-Posters#About) at SPLASH 2024] **Kyle Liang**, Edward Andert, Aviral Shrivastava, Jonathan Aldrich
++ [TickTalk: A Programming Language and System for Distributed, Time-Sensitive Applications](https://2024.splashcon.org/track/splash-2024-Posters#About) at SPLASH 2024 **Kyle Liang**, Edward Andert, Aviral Shrivastava, Jonathan Aldrich
 
 Talks
 =====
