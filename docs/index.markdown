@@ -34,7 +34,7 @@ at CMU!
 Papers
 ======
 
-+ [Plan B: Design Methodology for Cyber-Physical Systems Robust to Timing Failures](https://dl.acm.org/doi/10.1145/3516449) Mohammad Khayatian, Mohammadreza Mehrabian, Edward Andert, Reese Grimsley, **Kyle Liang**, Yi Hu, Ian McCormack, Carlee Joe-Wong, Jonathan Aldrich, Bob Iannucci, and Aviral Shrivastava,
++ [Plan B: Design Methodology for Cyber-Physical Systems Robust to Timing Failures](https://dl.acm.org/doi/10.1145/3516449) Mohammad Khayatian, Mohammadreza Mehrabian, Edward Andert, Reese Grimsley, **Kyle Liang**, Yi Hu, Ian McCormack, Carlee Joe-Wong, Jonathan Aldrich, Bob Iannucci, and Aviral Shrivastava
 
 Posters
 =======

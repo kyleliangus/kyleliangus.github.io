@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:hover, a:focus { color: rgb(0, 48, 153); font-weight: normal; }
+
+body {
+    background-color: #fff;
+    padding: 50px;
+    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #727272;
+    font-weight: 400;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
+}
